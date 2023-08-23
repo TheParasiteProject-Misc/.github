@@ -10,13 +10,6 @@ by ```Parasitizing``` other AOSP projects.
 
 Hope this project helps your projects :)
 
-## Build Process
-
-Check these repos for information.
-- [manifest](https://github.com/TheParasiteProject/manifest)
-- [vendor_pixel-additional](https://github.com/TheParasiteProject/vendor_pixel-additional)
-- [vendor_aosp](https://github.com/TheParasiteProject/vendor_aosp)
-
 ## Main repo
 
 - [TheParasiteProject](https://github.com/TheParasiteProject)
