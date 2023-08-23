@@ -1,8 +1,9 @@
-# TheParasiteProject
+# TheParasiteProject-Misc
 
 ## TheParasiteProject will always be Personal project!
 
-Some minimal changes applied ```personal``` AOSP based OS,<br/>
+Personal misc repo that doesn't required for building [TheParasiteProject](https://github.com/TheParasiteProject), <br/>
+that Some minimal changes applied ```personal``` AOSP based OS,<br/>
 which mainly based on [PixelExperience](https://github.com/PixelExperience),</br>
 that add Google Play System Update, Carrier Settings, and features that of personal taste :P<br/>
 by ```Parasitizing``` other AOSP projects.
@@ -16,9 +17,9 @@ Check these repos for information.
 - [vendor_pixel-additional](https://github.com/TheParasiteProject/vendor_pixel-additional)
 - [vendor_aosp](https://github.com/TheParasiteProject/vendor_aosp)
 
-## Devices
+## Main repo
 
-- [TheParasiteProject-Devices](https://github.com/TheParasiteProject-Devices)
+- [TheParasiteProject](https://github.com/TheParasiteProject)
 
 ## Credits
 - [Acme UI](https://github.com/AcmeUI)
