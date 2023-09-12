@@ -6,6 +6,7 @@ Personal misc repo that doesn't required for building [TheParasiteProject](https
 that Some minimal changes applied ```personal``` AOSP based OS,<br/>
 which mainly based on [PixelExperience](https://github.com/PixelExperience),</br>
 that add Google Play System Update, Carrier Settings, and features that of personal taste :P<br/>
+which also focused on bringing more Pixel features into AOSP<br/>
 by ```Parasitizing``` other AOSP projects.
 
 Hope this project helps your projects :)
